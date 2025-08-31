@@ -124,9 +124,21 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+
+https://github.com/user-attachments/assets/e760d958-8c37-4ce0-b32b-e1b6a1ec4edf
+
+
+
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
+
+
+
+https://github.com/user-attachments/assets/d6f84084-c3b4-4f05-9925-e6a456d12318
+
+
 
 
 ## Part E. Costume the device
@@ -147,6 +159,12 @@ Since the project is rooted in anti-surveillance, the design naturally focuses o
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+
+https://github.com/user-attachments/assets/2a83b651-88f3-45a8-b093-40b5288edb95
+
+
+
 
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
