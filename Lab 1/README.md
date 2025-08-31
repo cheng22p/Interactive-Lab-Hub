@@ -97,10 +97,12 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
 In practice, the prototype didn’t behave as subtly as we imagined. Using three phone flashlights hidden under a shirt made the glow much brighter and more obvious than expected. Instead of creating a faint, discreet effect, the prototype appeared more conspicuous, which leads to some unwanted attention.
 
 
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
+
 Yes. We realized that experimenting with different materials could help us control transparency and diffusion. Testing fabrics or surfaces with varying levels of opacity might allow us to find the best balance between visibility to the human eye and distortion for the camera.
 
 
@@ -139,6 +141,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+
 Since the project is rooted in anti-surveillance, the design naturally focuses on the most recognizable parts of the body, also the face. This concern guided us to position or wrap the device around these areas, ensuring it directly interferes with recognition systems. That priority inspired the different iterations we developed.
 
 ## Part F. Record
